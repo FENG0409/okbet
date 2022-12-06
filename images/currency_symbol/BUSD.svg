@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="svg-icon svelte-10mcogx" width="32"  height="32" ><defs><symbol id="icon-currency-busd" viewBox="0 0 32 32">
+<path fill="#f0b90b" style="fill: var(--color163, #f0b90b)" d="M32 16c0 8.837-7.163 16-16 16s-16-7.163-16-16c0-8.837 7.163-16 16-16s16 7.163 16 16z"></path>
+<path fill="#473800" style="fill: var(--color164, #473800)" d="M16 4.2l2.92 2.987-7.347 7.347-2.92-2.92 7.347-7.413z"></path>
+<path fill="#473800" style="fill: var(--color164, #473800)" d="M20.427 8.627l2.92 2.987-11.76 11.76-2.92-2.92 11.76-11.827z"></path>
+<path fill="#473800" style="fill: var(--color164, #473800)" d="M7.147 13.053l2.92 2.987-2.92 2.92-2.92-2.92 2.92-2.987z"></path>
+<path fill="#473800" style="fill: var(--color164, #473800)" d="M24.853 13.053l2.92 2.987-11.76 11.76-2.92-2.92 11.76-11.84z"></path>
+</symbol></defs><use xlink:href="#icon-currency-busd" stroke="#557086" fill="#557086" stroke-width="0px"></use></svg>

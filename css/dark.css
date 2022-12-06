@@ -1,0 +1,134 @@
+﻿body, h6, h5, h4, h2 {
+    /* background-color: rgb(35, 42, 51); */
+    background: #071d2a;
+    color: rgba(255,255,255,.55);
+}
+
+.list-group-item {
+    /* background-color: rgb(35, 42, 51); */
+    background-color: #1a2c38;
+}
+
+.bg_medLight {
+    /* background-color: rgb(26, 33, 42) */
+    background-color: #1a2c38;
+}
+
+    .bg_medLight:hover, .bg_medLight:focus {
+        background-color: rgb(26, 33, 42);
+        color: rgb(255,255,255);
+    }
+
+.navbar-light .form-check-input:checked {
+    background-color: rgb(26, 33, 42)
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255,255,255,.55);
+}
+
+.form-select {
+    color: rgba(255,255,255,.60);
+}
+
+.text_gray {
+    /* color: rgba(255,255,255,.60); */
+    color: #fff;
+}
+
+.link_green:hover {
+    color: rgb(255,255,255);
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(255,255,255);
+}
+
+.bg_lightHover:hover {
+    background-color: rgb(26, 33, 42);
+    color: rgb(255,255,255);
+}
+
+.btn-light {
+    background-color: rgb(35, 42, 51);
+    border-color: rgb(26, 33, 42);
+}
+
+    .btn-light:hover {
+        color: rgb(255,255,255);
+        background-color: rgb(26, 33, 42);
+        border-color: rgb(26, 33, 42);
+    }
+
+.form-control {
+    color: rgb(255,255,255);
+}
+
+.link-secondary:focus, .link-secondary:hover {
+    color: rgb(255,255,255);
+}
+
+.text-dark {
+    color: #808080 !important;
+}
+
+.bg-light {
+    background-color: rgb(26, 33, 42) !important;
+}
+
+.card {
+    background-color: rgb(26, 33, 42);
+}
+
+.accordion-button:not(.collapsed) {
+    color: #f7f7f7;
+    background-color: rgb(35, 42, 51);
+}
+
+.accordion-button {
+    color: rgba(255,255,255,.60);
+}
+
+.table {
+    color: #f8f9fa;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    color: #f8f9fa;
+}
+
+.page-link {
+    background-color: rgb(35, 42, 51);
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f9fafb;
+    background-color: #212529;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.table > :not(caption) > * > * {
+    background-color: #41464b;
+}
+
+.table-light {
+    color: #e9ecef;
+}
+
+@media screen and (max-width: 992px) {
+    .accordion-body {
+        background: none;
+    }
+
+    .memberNav {
+        background: rgb(35, 42, 51);
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+.memberNav .navbar-collapse ,
+    .navbar-collapse {
+        background: rgb(35, 42, 51);
+    }
+}
